@@ -87,8 +87,8 @@
 #define GPU_DVFS_VOLT1	 (115000)	/* mV x 100 */
 #define GPU_DVFS_VOLT2	 (105000)	/* mV x 100 */
 #else
-#define GPU_DVFS_FREQ0	 (650000)	/* KHz */
-#define GPU_DVFS_FREQ0_1   (598000)	/* KHz */
+#define GPU_DVFS_FREQ0	 (598000)	/* KHz */
+#define GPU_DVFS_FREQ0_1   (549250)	/* KHz */
 #define GPU_DVFS_FREQ1	 (448500)	/* KHz */
 #define GPU_DVFS_FREQ2	 (279500)	/* KHz */
 #define GPUFREQ_LAST_FREQ_LEVEL	(GPU_DVFS_FREQ2)
